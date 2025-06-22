@@ -79,3 +79,4 @@ Insights panel: Noting the correlation between shipment time and revenue drop
 Tableau.twbx – Packaged Tableau Workbook
 
 Screenshots
+https://github.com/alihamza2912/Amazon-Sales-Dashboard-Tableau/blob/main/Screenshot%202025-06-23%20015503.png
